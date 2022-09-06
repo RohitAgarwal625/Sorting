@@ -14,6 +14,7 @@ public class NewSort {
             arr[i] = smallerNumber;  
         }  
     }  
+    
        
     public static void main(String a[]){  
         int[] arr1 = {9,14,3,2,43,11,58,22};  
